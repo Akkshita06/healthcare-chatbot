@@ -1,6 +1,6 @@
 """
 Evaluation framework for the clinical calculator tool-use system.
-
+ 
 Metrics:
   - Calculator selection accuracy (did the model choose the right calculator?)
   - Parameter extraction accuracy (were the right boolean/numeric params extracted?)
