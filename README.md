@@ -1,4 +1,4 @@
-# Clinical Calculator Tool-Use System
+ # Clinical Calculator Tool-Use System
 
 An LLM-powered clinical decision support system that:
 1. Accepts **free-text clinical notes** as input
